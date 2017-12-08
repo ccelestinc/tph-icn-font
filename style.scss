@@ -1,0 +1,231 @@
+@import "variables";
+
+@font-face {
+  font-family: 'tph-icn-font';
+  src:  url('#{$icomoon-font-path}/tph-icn-font.eot?6psrr1');
+  src:  url('#{$icomoon-font-path}/tph-icn-font.eot?6psrr1#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/tph-icn-font.ttf?6psrr1') format('truetype'),
+    url('#{$icomoon-font-path}/tph-icn-font.woff?6psrr1') format('woff'),
+    url('#{$icomoon-font-path}/tph-icn-font.svg?6psrr1#tph-icn-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'tph-icn-font' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tph-icn-benchmarking {
+  &:before {
+    content: $tph-icn-benchmarking;
+  }
+}
+.tph-icn-company-light {
+  &:before {
+    content: $tph-icn-company-light;
+  }
+}
+.tph-icn-company {
+  &:before {
+    content: $tph-icn-company;
+  }
+}
+.tph-icn-costing {
+  &:before {
+    content: $tph-icn-costing;
+  }
+}
+.tph-icn-help-center-circle {
+  &:before {
+    content: $tph-icn-help-center-circle;
+  }
+}
+.tph-icn-help-center-hexa {
+  &:before {
+    content: $tph-icn-help-center-hexa;
+  }
+}
+.tph-icn-help-center-light-circle-full {
+  &:before {
+    content: $tph-icn-help-center-light-circle-full;
+  }
+}
+.tph-icn-help-center-light-circle {
+  &:before {
+    content: $tph-icn-help-center-light-circle;
+  }
+}
+.tph-icn-help-center-light-hexa-full {
+  &:before {
+    content: $tph-icn-help-center-light-hexa-full;
+  }
+}
+.tph-icn-help-center-light-hexa {
+  &:before {
+    content: $tph-icn-help-center-light-hexa;
+  }
+}
+.tph-icn-help-center-light {
+  &:before {
+    content: $tph-icn-help-center-light;
+  }
+}
+.tph-icn-help-center {
+  &:before {
+    content: $tph-icn-help-center;
+  }
+}
+.tph-icn-mail-circle {
+  &:before {
+    content: $tph-icn-mail-circle;
+  }
+}
+.tph-icn-mail-hexa {
+  &:before {
+    content: $tph-icn-mail-hexa;
+  }
+}
+.tph-icn-mail-light-circle-full {
+  &:before {
+    content: $tph-icn-mail-light-circle-full;
+  }
+}
+.tph-icn-mail-light-circle {
+  &:before {
+    content: $tph-icn-mail-light-circle;
+  }
+}
+.tph-icn-mail-light-hexa-full {
+  &:before {
+    content: $tph-icn-mail-light-hexa-full;
+  }
+}
+.tph-icn-mail-light-hexa {
+  &:before {
+    content: $tph-icn-mail-light-hexa;
+  }
+}
+.tph-icn-mail-light {
+  &:before {
+    content: $tph-icn-mail-light;
+  }
+}
+.tph-icn-mail {
+  &:before {
+    content: $tph-icn-mail;
+  }
+}
+.tph-icn-reviews-light {
+  &:before {
+    content: $tph-icn-reviews-light;
+  }
+}
+.tph-icn-reviews .path1 {
+  &:before {
+    content: $tph-icn-reviews-path1;  
+    color: rgb(0, 0, 0);
+  }
+}
+.tph-icn-reviews .path2 {
+  &:before {
+    content: $tph-icn-reviews-path2;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tph-icn-reviews .path3 {
+  &:before {
+    content: $tph-icn-reviews-path3;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tph-icn-reviews .path4 {
+  &:before {
+    content: $tph-icn-reviews-path4;  
+    margin-left: -1em;  
+    color: rgb(255, 255, 255);
+  }
+}
+.tph-icn-rfq {
+  &:before {
+    content: $tph-icn-rfq;
+  }
+}
+.tph-icn-settings-light {
+  &:before {
+    content: $tph-icn-settings-light;
+  }
+}
+.tph-icn-settings {
+  &:before {
+    content: $tph-icn-settings;
+  }
+}
+.tph-icn-signout-light {
+  &:before {
+    content: $tph-icn-signout-light;
+  }
+}
+.tph-icn-signout {
+  &:before {
+    content: $tph-icn-signout;
+  }
+}
+.tph-icn-sourcing {
+  &:before {
+    content: $tph-icn-sourcing;
+  }
+}
+.tph-icn-user-circle {
+  &:before {
+    content: $tph-icn-user-circle;
+  }
+}
+.tph-icn-user-hexa {
+  &:before {
+    content: $tph-icn-user-hexa;
+  }
+}
+.tph-icn-user-light-circle-full {
+  &:before {
+    content: $tph-icn-user-light-circle-full;
+  }
+}
+.tph-icn-user-light-circle {
+  &:before {
+    content: $tph-icn-user-light-circle;
+  }
+}
+.tph-icn-user-light-hexa-full {
+  &:before {
+    content: $tph-icn-user-light-hexa-full;
+  }
+}
+.tph-icn-user-light-hexa {
+  &:before {
+    content: $tph-icn-user-light-hexa;
+  }
+}
+.tph-icn-user-light {
+  &:before {
+    content: $tph-icn-user-light;
+  }
+}
+.tph-icn-user {
+  &:before {
+    content: $tph-icn-user;
+  }
+}
+
