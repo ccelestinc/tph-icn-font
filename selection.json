@@ -1519,7 +1519,8 @@
       "noie8": false,
       "ie7": false,
       "includeMetadata": true,
-      "selector": "i"
+      "selector": "",
+      "classSelector": ".icon"
     },
     "imagePref": {
       "prefix": "icon-",
