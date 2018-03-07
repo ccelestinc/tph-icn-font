@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tph-icn-font';
-  src:  url('fonts/tph-icn-font.eot?up51ck');
-  src:  url('fonts/tph-icn-font.eot?up51ck#iefix') format('embedded-opentype'),
-    url('fonts/tph-icn-font.ttf?up51ck') format('truetype'),
-    url('fonts/tph-icn-font.woff?up51ck') format('woff'),
-    url('fonts/tph-icn-font.svg?up51ck#tph-icn-font') format('svg');
+  src:  url('fonts/tph-icn-font.eot?nnyktn');
+  src:  url('fonts/tph-icn-font.eot?nnyktn#iefix') format('embedded-opentype'),
+    url('fonts/tph-icn-font.ttf?nnyktn') format('truetype'),
+    url('fonts/tph-icn-font.woff?nnyktn') format('woff'),
+    url('fonts/tph-icn-font.svg?nnyktn#tph-icn-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,142 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tph-icn-check-circle:before {
+  content: "\e92a";
+}
+.tph-icn-check-hexa:before {
+  content: "\e92b";
+}
+.tph-icn-check-light-circle-full:before {
+  content: "\e92c";
+}
+.tph-icn-check-light-circle:before {
+  content: "\e92d";
+}
+.tph-icn-check-light-hexa-full:before {
+  content: "\e92e";
+}
+.tph-icn-check-light-hexa:before {
+  content: "\e92f";
+}
+.tph-icn-check-light:before {
+  content: "\e930";
+}
+.tph-icn-check:before {
+  content: "\e931";
+}
+.tph-icn-Plan-de-travail-1 .path1:before {
+  content: "\e932";
+  color: rgb(225, 229, 235);
+}
+.tph-icn-Plan-de-travail-1 .path2:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(225, 229, 235);
+}
+.tph-icn-Plan-de-travail-1 .path3:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path4:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path5:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path6:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path7:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path8:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path9:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path10:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path11:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path12:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path13:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path14:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path15:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path16:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path17:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path18:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path19:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path20:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path21:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1 .path22:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-phone:before {
+  content: "\e948";
+}
 .tph-icn-team-light:before {
   content: "\e928";
 }
