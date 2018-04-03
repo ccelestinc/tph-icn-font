@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'tph-icn-font';
-  src:  url('fonts/tph-icn-font.eot?qbq7kr');
-  src:  url('fonts/tph-icn-font.eot?qbq7kr#iefix') format('embedded-opentype'),
-    url('fonts/tph-icn-font.ttf?qbq7kr') format('truetype'),
-    url('fonts/tph-icn-font.woff?qbq7kr') format('woff'),
-    url('fonts/tph-icn-font.svg?qbq7kr#tph-icn-font') format('svg');
+  src:  url('fonts/tph-icn-font.eot?82h30f');
+  src:  url('fonts/tph-icn-font.eot?82h30f#iefix') format('embedded-opentype'),
+    url('fonts/tph-icn-font.ttf?82h30f') format('truetype'),
+    url('fonts/tph-icn-font.woff?82h30f') format('woff'),
+    url('fonts/tph-icn-font.svg?82h30f#tph-icn-font') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,127 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.tph-icn-circle:before {
+  content: "\e9eb";
+}
+.tph-icn-hexa-full:before {
+  content: "\e9ec";
+}
+.tph-icn-hexa:before {
+  content: "\e9ed";
+}
+.tph-icn-Plan-de-travail-14 .path1:before {
+  content: "\e9ee";
+  color: rgb(225, 229, 235);
+}
+.tph-icn-Plan-de-travail-14 .path2:before {
+  content: "\e9ef";
+  margin-left: -1em;
+  color: rgb(225, 229, 235);
+}
+.tph-icn-Plan-de-travail-14 .path3:before {
+  content: "\e9f0";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path4:before {
+  content: "\e9f1";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path5:before {
+  content: "\e9f2";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path6:before {
+  content: "\e9f3";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path7:before {
+  content: "\e9f4";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path8:before {
+  content: "\e9f5";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path9:before {
+  content: "\e9f6";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path10:before {
+  content: "\e9f7";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path11:before {
+  content: "\e9f8";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path12:before {
+  content: "\e9f9";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path13:before {
+  content: "\e9fa";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path14:before {
+  content: "\e9fb";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path15:before {
+  content: "\e9fc";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path16:before {
+  content: "\e9fd";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path17:before {
+  content: "\e9fe";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path18:before {
+  content: "\e9ff";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path19:before {
+  content: "\ea00";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path20:before {
+  content: "\ea01";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path21:before {
+  content: "\ea02";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-14 .path22:before {
+  content: "\ea03";
+  margin-left: -1em;
+  color: rgb(206, 210, 219);
+}
+.tph-icn-Plan-de-travail-1323:before {
+  content: "\ea04";
+}
 .tph-icn-mysup-circle:before {
   content: "\e9cc";
 }
